@@ -1,5 +1,5 @@
 # 💫 About Me:
-React developer :)<br>1 year year 2 months experience + internship at EPAM Systems Training Center.
+React developer :)<br>1+ year experience + internship at EPAM Systems Training Center.
 
 
 # 💻 Tech Stack:
