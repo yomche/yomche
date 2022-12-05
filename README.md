@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m Ekaterina
-   - 1+ year experience react developer
+   - 1+ year experience FE developer
    - 6 month internship at EPAM Systems Training Center
 - 👀 I’m interested in React, TypeScript, NextJS
 - 📫 How to reach me:
