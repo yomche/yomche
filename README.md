@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👋 Hi, I’m Ekaterina
-   - 1+ year experience FE developer
+   - 1,5+ year experience FE developer
    - 6 month internship at EPAM Systems Training Center
    - graduated from the Mathematics Department of the Tver University in 2022
 - 👀 I’m interested in React, TypeScript, NextJS
