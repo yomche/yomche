@@ -6,6 +6,7 @@
 - 👀 I’m interested in React, TypeScript, NextJS
 - 📫 How to reach me:
    - [Harb Career](https://career.habr.com/yomche)
+   - [TG: @yomche](https://t.me/yomche)
    - katerina.smirnova98@yandex.ru
 
 # 💻 Tech Stack:
