@@ -1,3 +1,4 @@
+# ✨ [CV](https://yomche.github.io/greetings-page/) ✨
 # 💫 About Me:
 - 👋 Hi, I’m Ekaterina
    - 1,5+ year experience FE developer
