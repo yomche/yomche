@@ -1,10 +1,10 @@
-# ✨ [CV](https://yomche.github.io/greetings-page/) ✨
 # 💫 About Me:
 - 👋 Hi, I’m Ekaterina
    - 1,5+ year experience FE developer
    - 6 month internship at EPAM Systems Training Center
    - graduated from the Mathematics Department of the Tver University in 2022
 - 👀 I’m interested in React, TypeScript, NextJS
+- 🖥️ Check out ✨[my portfolio](https://yomche.github.io/greetings-page/)✨
 - 📫 How to reach me:
    - [Harb Career](https://career.habr.com/yomche)
    - [TG: @yomche](https://t.me/yomche)
